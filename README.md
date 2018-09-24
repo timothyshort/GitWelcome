@@ -1,7 +1,8 @@
 ### This is a simple starter code to work with a file and make some changes and commits
 
-1. Fill in the blanks with your information. Then make a commit (git add / git commit -m)
-2. Add a new line with your ID and email. Then make a commit (git add / git commit -m)
-3. Now revert to the previous version before adding ID and email. (git checkout <>)
-4. Then add just your ID. Then make a commit (try using git commit -a -m)
-5. Look at your past commits (git log)
+1. Clone the repository
+2. Create a branch for the lab
+3. Fill in the blanks and make a commit
+4. Add an additional line and include your email, then make a commit
+5. Make one other change your program, then make a commit
+6. Check the status and your commit logs, then merge to master
