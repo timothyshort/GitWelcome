@@ -1,5 +1,7 @@
 ### This is a simple starter code to work with a file and make some changes and commits
 
+If you have a GitHub account, begin by forking this repository. Then you can push the changes to your own GitHub.
+
 1. Clone the repository
 2. Create a branch for the lab
 3. Fill in the blanks and make a commit
